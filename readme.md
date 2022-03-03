@@ -3,7 +3,7 @@
     <img width="300" src="https://res.cloudinary.com/dxom9bksx/image/upload/v1646332470/sreenshots/cms-login-logo_bmiksu.png" alt="cms logo">
   </a>
 </p>
-<h3 align="center">Client Menagement System - Login System - </h3>
+<h3 align="center">Client Menagement System - Login System </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/React--purple" alt="Version">
