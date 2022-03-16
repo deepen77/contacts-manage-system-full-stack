@@ -58,7 +58,7 @@ exports.login = async (req, res) => {
 
 		// persist the token as 'jwt' in cookie with an expiry date
 		res.cookie("jwt", token, {
-      expire: new Date() + 9999,
+      maxAge: 24 * 60 * 60 * 1000,
       httpOnly: true,
       sameSite: "None",
       secure: true,
